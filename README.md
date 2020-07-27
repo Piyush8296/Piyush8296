@@ -19,6 +19,9 @@ export default () => ({
       js: ["node", "express"],
       misc: ["bash"],
     },
+    mobile:. {
+      hybrid: ["react native", "flutter"] //basics for now
+    },
     databases: ["mongo", "MySQL"],
     orchestration: {
       "env": ["Kubernetes"],
