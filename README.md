@@ -13,16 +13,16 @@ export default () => ({
   technologies: {
     frontEnd: {
       js: ["Vanilla", "Angular", "React"],
-      css: ["materialize", "bootstrap", "flexbox"]
+      css: ["material", "bootstrap", "flexbox"]
     },
     backEnd: {
       js: ["node", "express"],
-      misc: ["bash"],
+      misc: ["bash", "sh"],
     },
     mobile:. {
-      hybrid: ["react native", "flutter"] //basics for now
+      hybrid: ["react native", "flutter"] //basics setup only for now
     },
-    databases: ["mongo", "MySQL"],
+    databases: ["MongoDB", "MySQL"],
     orchestration: {
       "env": ["Kubernetes"],
       "container":{
