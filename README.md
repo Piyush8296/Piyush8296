@@ -6,21 +6,14 @@
 
 ```js
 export default () => ({
-  askMeAbout: [
-    "webdev", "tech", "music",
-    "cricket", "sports","politics"
-  ],
   technologies: {
     frontEnd: {
-      js: ["Vanilla", "Angular", "React"],
+      js: ["Vanilla", "Angular", "React", "Next"],
       css: ["material", "bootstrap", "flexbox"]
     },
     backEnd: {
       js: ["node", "express"],
       misc: ["bash", "sh"],
-    },
-    mobile:. {
-      hybrid: ["react native", "flutter"] //basics setup only for now
     },
     databases: ["MongoDB", "MySQL"],
     orchestration: {
