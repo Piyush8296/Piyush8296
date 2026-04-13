@@ -56,16 +56,25 @@ Before CARS24, at Awiros I built AI training platforms on Kubernetes, computer v
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF">
   <img alt="Lerna" src="https://img.shields.io/badge/Lerna-111827?style=for-the-badge&logo=lerna&logoColor=9333EA">
 </p>
+🔍 Quality & Observability
+<p>
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-111827?style=for-the-badge&logo=jest&logoColor=C21325">
+  <img alt="Testing Library" src="https://img.shields.io/badge/Testing_Library-111827?style=for-the-badge&logo=testinglibrary&logoColor=E33332">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2EAD33">
+  <img alt="Lighthouse CI" src="https://img.shields.io/badge/Lighthouse_CI-111827?style=for-the-badge&logo=lighthouse&logoColor=F44B21">
+  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-111827?style=for-the-badge&logo=sentry&logoColor=362D59">
+</p>
 📈 GitHub Activity
 <a href="https://github.com/Piyush8296">
   <img alt="Piyush Bansal GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush8296&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph">
 </a>
-✨ Philosophy
+💡 Engineering Principles
 
-Build systems, not just features.
-Platform work compounds — invest in it early.
-The best infrastructure is invisible to the teams using it.
-Stay close to execution, even as the scope grows.
+<li>Build systems, not just features — platforms compound in value over time.</li>
+<li>The best infrastructure is invisible to the teams using it.</li>
+<li>Performance is a product requirement, not an afterthought — ship fast pages by default.</li>
+<li>Stay close to execution, even as scope and team size grow.</li>
+<li>Quality loops should fit real delivery: test what matters, monitor what breaks.</li>
 
 
 <p align="center">
