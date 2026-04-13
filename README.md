@@ -6,7 +6,6 @@
   <a href="https://github.com/Piyush8296">GitHub</a> ·
   <a href="https://www.linkedin.com/in/piyush-sde">LinkedIn</a> ·
   <a href="https://piyush-sde.medium.com">Medium</a> ·
-  <a href="https://piyush8296.github.io/">Portfolio</a>
 </p>
 
 I build platform infrastructure that makes other engineers faster. Over 9 years — first at Awiros (Video AI/ML platform) and now at CARS24 (India's largest used-car marketplace, $3B+ valuation) — I've moved from shipping product features to owning the systems entire engineering orgs depend on.
@@ -86,8 +85,5 @@ Before CARS24, at Awiros I built AI training platforms on Kubernetes, computer v
   </a>
   <a href="https://piyush-sde.medium.com">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium&logoColor=FFFFFF">
-  </a>
-  <a href="https://piyush8296.github.io/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=FFFFFF">
   </a>
 </p>
