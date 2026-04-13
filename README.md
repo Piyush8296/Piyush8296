@@ -1,29 +1,84 @@
-# Piyush Bansal 👨‍💻
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-bansal-ba08a3124)](https://www.linkedin.com/in/piyush-bansal-ba08a3124)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow)](https://piyush8296.github.io/)
+<h1 align="center">Piyush Bansal</h1>
+<p align="center">
+  SDE III · Platform & Frontend Infrastructure · Building the systems that make engineering orgs move faster.
+</p>
+<p align="center">
+  <a href="https://github.com/Piyush8296">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/piyush-sde">LinkedIn</a> ·
+  <a href="https://piyush-sde.medium.com">Medium</a> ·
+  <a href="https://piyush8296.github.io/">Portfolio</a>
+</p>
 
-👨‍🎓 Software Engineer
+I build platform infrastructure that makes other engineers faster. Over 9 years — first at Awiros (Video AI/ML platform) and now at CARS24 (India's largest used-car marketplace, $3B+ valuation) — I've moved from shipping product features to owning the systems entire engineering orgs depend on.
+At CARS24 I lead a cross-functional POD of 10+ engineers and own three company-wide platforms: a Design Language System built 0→1 across India, UAE, and Australia with Nx/Lerna monorepo tooling and CI/CD automation; a UMS SDK centralising OAuth 2.0 + PKCE auth and RBAC across 10+ codebases; and a frontend platformisation effort applying DDD-based architecture across React Web and React Native — cutting code duplication by 40% and driving 30% FCP improvement and 30% bundle size reduction.
+Before CARS24, at Awiros I built AI training platforms on Kubernetes, computer vision pipelines (facial recognition, ANPR), and production K8s clusters for ML workloads.
+🏗️ What I Build
 
-```js
-export default () => ({
-  technologies: {
-    frontEnd: {
-      js: ["Vanilla", "Angular", "React", "Next"],
-      css: ["material", "bootstrap", "flexbox"]
-    },
-    backEnd: {
-      js: ["node", "express"],
-      misc: ["bash", "sh"],
-    },
-    databases: ["MongoDB", "MySQL"],
-    orchestration: {
-      "env": ["Kubernetes"],
-      "container":{
-        "name":"docker",
-        "services":["docker-compose","docker build","docker run","private registry setup with auth"]
-      }
-    }
-  },
-});
-```
-⭐️ From [dipeshpatil](https://github.com/dipeshpatil)
+🧩 Design systems & monorepo tooling — shared component libraries, semantic versioning, CI/CD pipelines that scale across product teams and geographies.
+🔐 Auth infrastructure — OAuth 2.0 + PKCE SDKs, RBAC centralisation, and secure token flows across distributed frontends.
+⚡ Frontend platform architecture — microfrontend strategies, DDD-based code organisation, module federation, and performance engineering (Core Web Vitals, bundle optimisation, FCP).
+🐳 Container & orchestration workflows — Kubernetes clusters for production workloads, Docker-based CI, private registry management.
+🤖 AI tooling — platform-level integrations that bring AI capabilities closer to product engineering workflows.
+
+🧰 Tech Stack
+⚡ Frontend Platform
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=DD0031">
+</p>
+<p>
+  <img alt="Nx" src="https://img.shields.io/badge/Nx-111827?style=for-the-badge&logo=nx&logoColor=FFFFFF">
+  <img alt="Module Federation" src="https://img.shields.io/badge/Module_Federation-111827?style=for-the-badge">
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-111827?style=for-the-badge&logo=redux&logoColor=764ABC">
+  <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-111827?style=for-the-badge&logo=mui&logoColor=007FFF">
+  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-111827?style=for-the-badge&logo=storybook&logoColor=FF4785">
+</p>
+⚙️ Backend & APIs
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
+  <img alt="Go" src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=FFFFFF">
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge">
+  <img alt="OAuth 2.0" src="https://img.shields.io/badge/OAuth_2.0-111827?style=for-the-badge&logo=auth0&logoColor=EB5424">
+</p>
+🗄️ Databases
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1">
+</p>
+🐳 Infrastructure & DevOps
+<p>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF">
+  <img alt="Lerna" src="https://img.shields.io/badge/Lerna-111827?style=for-the-badge&logo=lerna&logoColor=9333EA">
+</p>
+📈 GitHub Activity
+<a href="https://github.com/Piyush8296">
+  <img alt="Piyush Bansal GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush8296&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph">
+</a>
+✨ Philosophy
+
+Build systems, not just features.
+Platform work compounds — invest in it early.
+The best infrastructure is invisible to the teams using it.
+Stay close to execution, even as the scope grows.
+
+
+<p align="center">
+  <a href="https://github.com/Piyush8296">
+    <img alt="GitHub" src="https://img.shields.io/badge/github.com/Piyush8296-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
+  </a>
+  <a href="https://www.linkedin.com/in/piyush-sde">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
+  <a href="https://piyush-sde.medium.com">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-111827?style=for-the-badge&logo=medium&logoColor=FFFFFF">
+  </a>
+  <a href="https://piyush8296.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=FFFFFF">
+  </a>
+</p>
